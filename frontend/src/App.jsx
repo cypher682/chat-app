@@ -3,7 +3,7 @@ import io from 'socket.io-client';
 import './App.css';
 
 // Connect to backend (use localhost for now, update later for deployment)
-const socket = io('http://localhost:5000');
+const socket = io('https://frontend-4r9fi1y6b-abdulrahman-suleimans-projects.vercel.app');
 
 function App() {
   const [username, setUsername] = useState('');

@@ -6,7 +6,7 @@ const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: '*', // Allow all origins for development (restrict in production)
+    origin: 'https://backend-9fsjtwioe-abdulrahman-suleimans-projects.vercel.app', // Allow all origins for development (restrict in production)
     methods: ['GET', 'POST'],
   },
 });
