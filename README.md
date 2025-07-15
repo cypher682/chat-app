@@ -16,7 +16,7 @@ A real-time group chat application for 50–100 users built with React, Node.js,
 - **Deployment**: Vercel
 
 ## Installation
-1. Clone the repo: `git clone https://github.com/your-username/chat-app.git`
+1. Clone the repo: `git clone https://github.com/cypher682/chat-app.git`
 2. Backend setup:
    - `cd backend`
    - `npm install`
@@ -27,7 +27,7 @@ A real-time group chat application for 50–100 users built with React, Node.js,
    - `npm start`
 
 ## Deployment
-Deployed at: [Insert Vercel URL after deployment]
+Deployed at:
 
 ## Future Improvements
 - Add MongoDB for persistent message storage.
